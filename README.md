@@ -1,2 +1,4 @@
-# POWER-BI-Projects
-This project is a Sales Insights Dashboard built using Power BI to analyze and visualize sales data. It helps businesses understand key trends, revenue performance, and customer behavior through interactive reports.
+# Atliq hardware Data Analysis  (Interactive Dashboard creation using POWER BI)
+
+## Project Objective
+This project aims to analyze sales data and build an interactive Power BI dashboard to help Atliq Hardware track sales trends, customer demand, and market performance effectively.
